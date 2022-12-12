@@ -1,5 +1,4 @@
 # Desafio-DIO-Projeto-GITHUB
-Repositório  do projesto teste  GIT/GITHUB
+Repositório  do projesto teste  GIT
 
-##  Links Úteis 
-
+Curso de  Introdu  ao  GIT e GITHUB
